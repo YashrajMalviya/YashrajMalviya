@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, Firebase, Android**
 
-- 📫 You can reach me through **yashrajmalviya296@gmail.com**
+- 📫 How to reach me: Check social links below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
