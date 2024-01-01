@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yashraj Malviya</h1>
+<h1 align="center">Hi 👋, I'm Yashraj Malviya </h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
